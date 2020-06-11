@@ -1,0 +1,6 @@
+[submodule "TodoFirebase"]
+	path = TodoFirebase
+	url = https://github.com/lukasf98/TodoFirebase
+[submodule "TodoAmplify"]
+	path = TodoAmplify
+	url = https://github.com/lukasf98/TodoAmplify
